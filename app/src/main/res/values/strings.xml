@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string name="enregister">Enregister</string>
+    <string name="saisir_votre_mot_de_passe">saisir votre mot de passe</string>
+    <string name="saisir_votre_adresse_mail">saisir votre adresse mail</string>
+    <string name="saisir_votre_nom">saisir votre nom</string>
+    <string name="cr_er_un_compte">Créer un compte</string>
+</resources>
